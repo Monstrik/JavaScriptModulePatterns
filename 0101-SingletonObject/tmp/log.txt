@@ -1,0 +1,4 @@
+{"when":"2015-07-20T08:58:06.163Z","level":"info","what":"one"}
+{"when":"2015-07-20T08:58:06.164Z","level":"info","what":"two"}
+{"when":"2015-07-20T08:58:06.165Z","level":"warning","what":"three"}
+{"when":"2015-07-20T08:58:06.165Z","level":"critical","what":"four!"}
