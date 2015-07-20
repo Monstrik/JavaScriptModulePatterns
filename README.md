@@ -8,6 +8,7 @@ Let’s see some common patterns that can emerge:
 - Singleton object
 - Closure-based class
 - Prototype-based class
+- Façade module
 
 Even though JavaScript did not provide a module system, it’s possible to simulate one by using
 function closures. It’s also possible to create a module system that makes dependencies explicit, and
